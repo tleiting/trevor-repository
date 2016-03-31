@@ -1,2 +1,3 @@
-for x in range(5):
-  print x
+x = 10
+y = x+8
+print y
