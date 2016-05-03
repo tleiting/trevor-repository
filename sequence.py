@@ -10,8 +10,8 @@ import random
 # I chose this value for 'u' because 'a' and 'c' both share the same variable (x), so I combined like-terms. (This occurs on line 17).
 # I chose this value for 'v' because 'b' and 'd' are both constants, so I combined them. (This occurs on line 18).
 
-a = random.randint(50, 99) 
-b = random.randint(50, 99) 
+a = random.randint(52, 99) 
+b = random.randint(52, 99) 
 c = random.randint(10, 40) 
 d = random.randint(10, 40) 
 u = (a - c) 
